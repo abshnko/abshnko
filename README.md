@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dasha @abshnko
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me: Telegram @abshnko
 
